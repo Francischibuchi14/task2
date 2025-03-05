@@ -1,0 +1,15 @@
+.sidebar{
+    height: 100vh;
+    
+        transition: transform 0.3s ease-in-out;
+
+    
+}
+body {
+    background: linear-gradient(to right, #1e293b, #1e3a8a, #1e293b);
+    color: white;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
